@@ -37,7 +37,7 @@ At the beginning, I wanted to learn this course because I knew there was such a 
 | Course Link                                                  | Language | My repository                                                | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- |
 | [Data structure in Python](https://github.com/Shinehale/Data-structure-in-Python/blob/main/Python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20by%20%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9%C2%B7%E7%B1%B3%E5%8B%92%20%E6%88%B4%E7%BB%B4%C2%B7%E6%8B%89%E5%8A%AA%E5%A7%86%20(z-lib.org).pdf) | Python   | [finished](https://github.com/Shinehale/Data-structure-in-Python) :artificial_satellite: | 🌟🌟         |
-|                                                              |          |                                                              |            |
+| [stanford algorithm](https://www.coursera.org/specializations/algorithms) | C++      | [Ongoing](https://github.com/Shinehale/Algorithm-Design)     | undefined  |
 
 ------
 
