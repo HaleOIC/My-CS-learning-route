@@ -114,3 +114,17 @@ The Stanford course is much harder and you can also find its teaching videos on 
 | C++ advanced | C++      | [Ongoing](https://github.com/Shinehale/Cpp-advanced) :card_index: | 🌟🌟🌟🌟🌟      |
 |              |          |                                                              |            |
 |              |          |                                                              |            |
+
+
+
+## Electronic Fundamental
+
+| Course Link                                                  | language | My repository                                           | Difficulty |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------- | ---------- |
+| [EE120 signal and system](https://inst.eecs.berkeley.edu/~ee120/fa19/) | python   | [finished](https://github.com/HaleOIC/EE120) :sailboat: | 🌟🌟🌟        |
+|                                                              |          |                                                         |            |
+|                                                              |          |                                                         |            |
+
+#### 0. EE120 signal and system 
+
+UCB EE120 has some great course notes which I think are written in a  very clear and easy to understand way. Personally I think the notes  about Fourier transform are quite clear and great.  Complete the interesting labs of EE120 where you can use python to  process real signals and solve practical problems (These labs are very  very very interesting. For example, in lab3 you will implement your own  FFT and compare it with numpy's version. In lab4 you will use the videos of your finger to predict your heart-beat rate. In lab5 you will  restore blurred images taken by the Hubble Telescope. In lab6 you will  control the small car to make it hold one stick.)
